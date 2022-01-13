@@ -13,7 +13,6 @@ lista_numeros2 = set(lista_numeros)
 print(lista_numeros2)
 
 # Fazendo em Comprehension:
-
 lista_numeros3 = {num for num in range(1, 10)}
 print(lista_numeros3)
 
